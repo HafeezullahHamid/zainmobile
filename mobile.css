@@ -1,0 +1,234 @@
+.top-div {
+    width: 100%;
+    /* height: 100px; */
+    background-color: #000000;
+}
+
+.top-name-div {
+    width: 100%;
+    /* height: 40px; */
+    background-color: #000000;
+}
+
+.top-name {
+    margin-left: 40px;
+    padding-top: 10px;
+}
+
+.top-logo-container {
+    height: 20px;
+    width: 100%;
+    display: flex;
+}
+
+.inside-top-logo {
+    position: absolute;
+    right: 10px;
+    display: flex;
+
+}
+
+.top-logo {
+    padding: 10px;
+}
+
+/*----------------------------------*/
+.navigation-bar {
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+}
+
+ul {
+    margin-left: 65%;
+    padding-top: 15px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+#mobile-name{
+    
+}
+/*----------------------------------------------------*/
+.main-phone-container {
+    width: 100%;
+    text-align: center;
+    background-color: black;
+}
+
+.phone-container1,
+.phone-container2 {
+    padding-top: 8%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.phone1-div,
+.phone2-div,
+.phone3-div,
+.phone4-div,
+.phone5-div,
+.phone6-div,
+.phone7-div,
+.phone8-div {
+    width: 350px;
+    height: 600px;
+    background-color: #ffffff;
+    margin: 10px;
+    border: 0px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.phone1-pic {
+    padding: 40px;
+}
+
+.name-and-price-div {
+    justify-content: center;
+
+}
+
+.color-container {
+    display: flex;
+    margin-left: 35%;
+
+}
+
+.prices {
+    font-size: 12px;
+    justify-content: center;
+}
+
+.about-phone {
+    width: 300px;
+    height: 60px;
+    font-size: 12px;
+    border: 1px solid;
+    margin-left: 25px;
+}
+
+.phone-button {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    border: 0px solid;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.phone-button2 {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    border: 0px solid;
+    border-radius: 15px;
+    color: #fff;
+    margin-top: 45px;
+}
+
+.phone-button3 {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    border: 0px solid;
+    border-radius: 15px;
+    color: #fff;
+}
+
+.phone-button4 {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(39, 38, 38);
+    border: 0px solid;
+    border-radius: 15px;
+    color: #fff;
+    margin-top: 40px;
+
+}
+
+/*--------------------------------------------------------*/
+.shope-location-container {
+    width: 100%;
+    background-color: black;
+}
+
+.location-and-product {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.zain-mobile-shape-haeding {
+    font-size: 30px;
+    color: #fff;
+}
+
+.location-div {
+    width: 50%;
+    height: 400px;
+    margin: 30px;
+    border: 3px solid;
+}
+
+.map {
+    margin-left: 10%;
+}
+
+.products {
+    width: 40%;
+    height: 400px;
+    margin: 30px;
+
+}
+
+.product-list {
+    color: #fff;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+.product-heading {
+    color: #fff;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+
+.links-div {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    width: 45px;
+    height: 45px;
+    border: 3px solid white;
+    border-radius: 50px;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
